@@ -21,6 +21,7 @@ navigate to AStarAlgorithm/AStarAlgorithm/. There, you'll find a makefile that c
 the program.
 
 $ make
+
 $ ./astar
 
 Once the program has started, it will ask you to enter in a starting point and an ending point. All point names are case-sensitive so
