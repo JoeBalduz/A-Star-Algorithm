@@ -33,28 +33,53 @@ the end result, which is the shortest path.
 # Example Run of the Program
 
 Enter in the starting point: A1
+
 Enter in the ending point: C4
+
 Enter in the name of a city to exclude or 0 to stop: 0
+
 Enter 1 for step-by-step or 0 for no step-by-step: 1
+
 City selected: A1
+
 Possible cities where to travel: B1 A2
+
 Cities at the end of possible paths: A2(459.014) B1(572.41)
+
 City selected: A2
+
 Possible cities where to travel: B2 A4
+
 Cities at the end of possible paths: B1(572.41) B2(590.388) A4(634.06)
+
 City selected: B1
+
 Possible cities where to travel: D1 B2
+
 Cities at the end of possible paths: B2(572.574) A4(634.06) D1(856.769)
+
 City selected: B2
+
 Possible cities where to travel: C2 C3 A2
+
 Cities at the end of possible paths: C3(576.941) C2(623.941) A4(634.06) D1(856.769)
+
 City selected: C3
+
 Possible cities where to travel: C2 C4
+
 Cities at the end of possible paths: C4(576.941) C2(623.941) A4(634.06) D1(856.769)
+
 City selected: C4
+
 The final solution path is:
+
 A1 to B1 length 177
+
 B1 to B2 length 113
+
 B2 to C3 length 131.217
+
 C3 to C4 length 155.724
+
 Total distance is 576.941
