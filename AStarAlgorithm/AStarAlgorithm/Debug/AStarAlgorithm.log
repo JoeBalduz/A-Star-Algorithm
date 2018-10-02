@@ -1,0 +1,10 @@
+﻿  main.cpp
+c:\users\chao5\documents\visual studio 2017\projects\astaralgorithm\astaralgorithm\main.cpp(71): warning C4018: '<': signed/unsigned mismatch
+c:\users\chao5\documents\visual studio 2017\projects\astaralgorithm\astaralgorithm\main.cpp(182): warning C4018: '<': signed/unsigned mismatch
+c:\users\chao5\documents\visual studio 2017\projects\astaralgorithm\astaralgorithm\main.cpp(196): warning C4018: '<': signed/unsigned mismatch
+c:\users\chao5\documents\visual studio 2017\projects\astaralgorithm\astaralgorithm\main.cpp(221): warning C4018: '<': signed/unsigned mismatch
+c:\users\chao5\documents\visual studio 2017\projects\astaralgorithm\astaralgorithm\main.cpp(237): warning C4018: '<': signed/unsigned mismatch
+c:\users\chao5\documents\visual studio 2017\projects\astaralgorithm\astaralgorithm\main.cpp(268): warning C4018: '<': signed/unsigned mismatch
+c:\users\chao5\documents\visual studio 2017\projects\astaralgorithm\astaralgorithm\main.cpp(289): warning C4018: '<': signed/unsigned mismatch
+c:\users\chao5\documents\visual studio 2017\projects\astaralgorithm\astaralgorithm\main.cpp(347): warning C4018: '<': signed/unsigned mismatch
+  AStarAlgorithm.vcxproj -> C:\Users\Chao5\Documents\Visual Studio 2017\Projects\AStarAlgorithm\Debug\AStarAlgorithm.exe
