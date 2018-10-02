@@ -29,8 +29,9 @@ Once the program has started, it will ask you to enter in a starting point and a
 make sure to enter the point names exactly as they appear in locations.txt. After that, you can choose to exclude cities from the path.
 If you do choose to exclude cities, remember to make sure that their name is entered in exacltly as they appear in locations.txt. You'll
 then be given a choice of choosing from step-by-step or no step-by-step. Step-by-step means that the algorithm will print out all of the
-moves it makes in the process of finding the shortest path, which was useful in debugging. Choosing no step-by-step will only give you
-the end result, which is the shortest path.
+moves it makes in the process of finding the shortest path, which was useful in debugging. It will show the current "city" it has
+selected, the possible "cities" where to travel to, and the "cities" at the end of all possible paths along with the distance assigned
+to that "city".Choosing no step-by-step will only give you the end result, which is the shortest path.
 
 # Example Run of the Program
 
