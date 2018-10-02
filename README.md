@@ -13,7 +13,8 @@ formatted in the following way.
 
 POINT_NAME NUMBER_OF_NEIGHBORS NEIGHBOR_1 NEIGHBOR_2 ... NEIGHBOR_N
 
-As long as that format is kept, neighbors can be added, removed, or changed.
+As long as that format is kept, neighbors can be added, removed, or changed. All source code can be found in
+AStarAlgorithm/AStarAlgorithm/.
 
 # Running the Program
 This program can be run in both Windows and Linux. In Windows, the project can be loaded into visual studio and run there. For Linux,
